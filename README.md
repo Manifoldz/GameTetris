@@ -22,14 +22,14 @@
 
 * Coverage 97% by Unit tests (You also can check it by `make test` and `make gcov-report`)
 
- ![Screenshot_of_Game](LCOV.png)
+ ![Screenshot_of_LCOV](images/LCOV.png)
 
 * Documentation done with Doxyfile (`make dvi`)
 
-![Screenshot_of_Game](Doс.png)
+![Screenshot_of_Doc](images/Doс.png)
 
 * Realized with principle of finite state machine
- ![Screenshot_of_Game](FSM.png)
+ ![Screenshot_of_FSM](images/FSM.png)
 
 * Implementation backend and frontend parts separately
   
@@ -37,9 +37,9 @@
 
 * All 7 types color tetromino
 
-![Screenshot_of_Game](images/All_Tetromino.png)
+![Screenshot_of_Tetrominos](images/All_Tetromino.png)
 
 * Information about game over and the ability to restart the game
 
-![Screenshot_of_Game](images/Start.png)
-![Screenshot_of_Game](images/Game_over.png)
+![Screenshot_of_Start](images/Start.png)
+![Screenshot_of_End](images/Game_over.png)
